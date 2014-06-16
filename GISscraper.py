@@ -8,7 +8,7 @@ import urllib2
 
 # Change QUERY to your search term of choice. 
 # Examples: 'newsnight', 'from:bbcnewsnight', 'to:bbcnewsnight'
-QUERY = '#opendata'
+QUERY = '#gis'
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'en'
 NUM_PAGES = 1000 
