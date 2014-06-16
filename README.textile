@@ -1,0 +1,1 @@
+This is a basic twitter scraper where you can change the search terms and store it in the datastore. Feel free to fork.
